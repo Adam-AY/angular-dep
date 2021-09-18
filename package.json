@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy:gh": "ng build --prod --base-href=https://Adam-AY.github.io/angular-test/ && ngh"
+    "deploy:gh": "ng build --prod --base-href=https://Adam-AY.github.io/angular-dep/ && ngh"
   },
   "private": true,
   "dependencies": {
